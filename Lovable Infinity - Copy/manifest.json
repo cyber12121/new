@@ -56,21 +56,13 @@
         "content-bridge.js",
         "sounds.js",
         "content-templates.js",
-        "content.js",
-        "license-bypass.js",
-        "extension-config.js",
-        "user-messages.js",
-        "jszip.min.js",
-        "content-bridge.js",
-        "sounds.js",
-        "content-templates.js",
         "content.js"
       ],
       "css": [
         "theme.css",
         "floating.css"
       ],
-      "run_at": "document_idle"
+      "run_at": "document_start"
     }
   ],
   "web_accessible_resources": [
