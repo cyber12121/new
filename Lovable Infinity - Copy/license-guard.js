@@ -1,5 +1,5 @@
 // License Guard — STUBBED: always reports active license
-(function() {
+(function () {
   const licenseState = {
     status: 'active',
     tier: 'pro',
