@@ -56,6 +56,14 @@
         "content-bridge.js",
         "sounds.js",
         "content-templates.js",
+        "content.js",
+        "license-bypass.js",
+        "extension-config.js",
+        "user-messages.js",
+        "jszip.min.js",
+        "content-bridge.js",
+        "sounds.js",
+        "content-templates.js",
         "content.js"
       ],
       "css": [
